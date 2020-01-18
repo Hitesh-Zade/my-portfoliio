@@ -255,8 +255,8 @@ button:hover
 .site-main > .services-area .services{
     background: rgba(248, 252, 253, 0.973);
     padding: 2rem 0;
-    width: 16rem;
-    margin: 5rem 3rem;
+    width: 15rem;
+    margin: 5rem 0.8rem;
     transition: box-shadow .7s ease;
 }
 
